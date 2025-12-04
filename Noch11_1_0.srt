@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("")
+
+2
+00:00:00,000 --> 00:00:00,000
+5. navigateToUrl("https://academy.katalon.com/dashboard/certifications/")
+
+3
+00:00:00,000 --> 00:00:00,000
+9. maximizeWindow()
+
+4
+00:00:00,000 --> 00:00:00,000
+13. closeBrowser()
+
