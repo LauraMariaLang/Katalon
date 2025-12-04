@@ -1,0 +1,30 @@
+
+12/04/2025 10:28:01 +00:00 - [TEST_CASE][PASSED] - Test Cases/Road to 50/Login-brillux: Test Cases/Road to 50/Login-brillux
+
+12/04/2025 10:28:01 +00:00 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+12/04/2025 10:28:01 +00:00 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+12/04/2025 10:28:01 +00:00 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+12/04/2025 10:28:03 +00:00 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+12/04/2025 10:28:03 +00:00 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+12/04/2025 10:28:03 +00:00 - [MESSAGE][PASSED] - Current window maximized
+
+12/04/2025 10:28:03 +00:00 - [TEST_STEP][PASSED] - navigateToUrl("https://www.brillux.com/"): Navigate to 'https://www.brillux.com/' successfully
+
+12/04/2025 10:28:05 +00:00 - [MESSAGE][WARNING] - FFmpeg was not installed! Browser Recording will be disabled. Please follow this document to install FFmpeg first: https://docs.katalon.com/katalon-studio/test-reports/generate-test-reports/generate-browser-based-videos-in-katalon-studio-reports#browser-based-recorder
+
+12/04/2025 10:28:05 +00:00 - [MESSAGE][PASSED] - Navigate to 'https://www.brillux.com/' successfully
+
+12/04/2025 10:28:05 +00:00 - [TEST_STEP][PASSED] - navigateToUrl("https://www.brillux.de/account/login"): Navigate to 'https://www.brillux.de/account/login' successfully
+
+12/04/2025 10:28:07 +00:00 - [MESSAGE][WARNING] - FFmpeg was not installed! Browser Recording will be disabled. Please follow this document to install FFmpeg first: https://docs.katalon.com/katalon-studio/test-reports/generate-test-reports/generate-browser-based-videos-in-katalon-studio-reports#browser-based-recorder
+
+12/04/2025 10:28:07 +00:00 - [MESSAGE][PASSED] - Navigate to 'https://www.brillux.de/account/login' successfully
+
+12/04/2025 10:28:07 +00:00 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+12/04/2025 10:28:07 +00:00 - [MESSAGE][PASSED] - Browser is closed
