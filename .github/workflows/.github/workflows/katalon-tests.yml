@@ -4,4 +4,4 @@ env:
     PASSWORD: e6c987fb-6077-4626-a681-8b504bb55bd0
     PROJECT_ID: 2678502
     TYPE: katalon
-    REPORT_PATH: Reports/20251205_171358
+    REPORT_PATH: Reports
