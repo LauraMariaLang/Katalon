@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login-brillux</name>
+   <tag>jira-integration,GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>36f7719a-5806-44c4-bfee-bd2b109c78e7</testCaseGuid>
+</TestCaseEntity>

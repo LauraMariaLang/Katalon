@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MTC002_Appointment Confirmation from Doctor</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>08cea2f4-3495-48b6-9b29-a53e386122e7</testCaseGuid>
+</TestCaseEntity>
